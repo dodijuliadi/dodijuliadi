@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dodijuliadi
 - 👀 I’m interested in Businesses and Web3
 - 🌱 I’m currently learning Solidity
-- 💞️ I’m looking to collaborate on any prospectus businesses in Indonesia
+- 💞️ I’m looking to collaborate on any Start-ups in Indonesia
 - 📫 How to reach me: Linkedin Dodi Juliadi
 
 <!---
